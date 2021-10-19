@@ -16,6 +16,6 @@ at some point and further increase the quality of poems produced (my next versio
 - [NLTK](https://www.nltk.org/install.html)
 
 ## Use
-- If desired, provide a subject noun on line 85 in `haiku.py`
+- If desired, provide a subject noun on line 85 in `pyPoet.py`
 - For a random poem, comment out line 85 
-- Run `python3 haiku.py` from the command line
+- Run `python3 pyPoet.py` from the command line
